@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/flutter/website/master/src/images/flutter-logo-sharing.png" alt="Flutter Logo" width="100"/>
-</p> # Dart & Flutter 학습 프로젝트
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/images/flutter-logo-sharing.png" alt="Flutter Logo" width="100" style="margin-right: 10px;" />
+  <h1 style="margin: 0;">Dart & Flutter 학습 프로젝트</h1>
+</div>
 
 ![dart 언어 로드맵](https://github.com/user-attachments/assets/83248914-fa9d-4e46-89e1-e555d872a978)
 
