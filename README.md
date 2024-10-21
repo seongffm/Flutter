@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flutter/website/master/src/images/flutter-logo-sharing.png" alt="Flutter Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/images/flutter-logo-sharing.png" alt="Flutter Logo" width="30"/>
 </p>
 
 <h1 align="center">Dart & Flutter 학습 프로젝트</h1>
