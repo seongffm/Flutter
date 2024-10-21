@@ -1,4 +1,8 @@
-![Flutter Logo White](https://raw.githubusercontent.com/flutter/website/master/src/images/flutter-logo-sharing.png)Dart & Flutter 학습 프로젝트
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/images/flutter-logo-sharing.png" alt="Flutter Logo" width="150"/>
+</p>
+
+<h1 align="center">Dart & Flutter 학습 프로젝트</h1>
 
 ![dart 언어 로드맵](https://github.com/user-attachments/assets/83248914-fa9d-4e46-89e1-e555d872a978)
 
